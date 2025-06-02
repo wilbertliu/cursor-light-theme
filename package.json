@@ -1,0 +1,31 @@
+{
+  "name": "cursor-light-theme",
+  "displayName": "Cursor Light Theme",
+  "description": "The missing light theme for Cursor",
+  "version": "1.0.0",
+  "publisher": "wilbertliu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilbertliu/cursor-light-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wilbertliu/cursor-light-theme/issues"
+  },
+  "homepage": "https://github.com/wilbertliu/cursor-light-theme",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cursor Light",
+        "uiTheme": "vs",
+        "path": "./themes/Cursor Light-color-theme.json"
+      }
+    ]
+  }
+}
