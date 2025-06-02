@@ -15,7 +15,7 @@
   "homepage": "https://github.com/wilbertliu/cursor-light-theme",
   "license": "MIT",
   "engines": {
-    "vscode": "^1.100.0"
+    "vscode": "^1.96.0"
   },
   "categories": [
     "Themes"
