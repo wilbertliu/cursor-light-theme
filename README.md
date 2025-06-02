@@ -7,7 +7,7 @@ The missing light theme for Cursor.
 ## Installation
 
 1. Go to Extensions (⌘⇧X)
-2. Search for `Cursor Light`
+2. Search for `Cursor Light Theme`
 3. Click `Install`
 
 ## Usage
