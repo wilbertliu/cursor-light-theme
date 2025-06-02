@@ -4,7 +4,7 @@
   "description": "The missing light theme for Cursor",
   "version": "1.0.0",
   "publisher": "wilbertliu",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/wilbertliu/cursor-light-theme.git"
