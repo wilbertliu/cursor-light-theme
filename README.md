@@ -1,5 +1,7 @@
 # Cursor Light Theme
 
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/wilbertliu/cursor-light-theme?style=flat-square&label=Open%20VSX%20Downloads&color=%23d946ef)](https://open-vsx.org/extension/wilbertliu/cursor-light-theme)
+
 The missing light theme for Cursor.
 
 ![Cursor Light Theme](./screenshot.png)
